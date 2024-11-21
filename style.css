@@ -51,6 +51,15 @@ main ul li {
   line-height: 1.8rem;
 }
 
+main ul,
+main ol {
+  padding-left: 2.4rem;
+}
+
+main ul {
+  margin-bottom: 2.4rem;
+}
+
 main button {
   margin-top: 3.2rem;
   font-family: 'Source Serif 4', sans-serif;
