@@ -75,3 +75,20 @@ main button {
 main button:hover {
   background: #972b0d;
 }
+
+@media (min-width: 1120px) {
+  main {
+    flex-direction: row;
+    max-width: fit-content;
+    padding: 9rem 6rem;
+    gap: 16rem;
+  }
+
+  .recipe {
+    max-width: 39.5rem;
+  }
+
+  .ingredients {
+    max-width: 47.5rem;
+  }
+}
