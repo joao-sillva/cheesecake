@@ -6,10 +6,32 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+:root {
+  font-size: 62.5%;
+}
+
 body {
   font-family: 'Source Serif 4', sans-serif;
   color: #A54328;
   font-size: 1.6rem;
+}
+
+main h1,
+main h2 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 3.6rem;
+}
+
+main h2 {
+  margin-bottom: 3.2rem;
+}
+
+main p,
+main strong,
+main ul li {
+  font-size: 1.4rem;
+  line-height: 1.8rem;
 }
 
 main button {
