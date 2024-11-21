@@ -16,6 +16,23 @@ body {
   font-size: 1.6rem;
 }
 
+main {
+  max-width: 32rem;
+  padding: 5.4rem 3.7rem;
+  
+  margin-inline: auto;
+  box-sizing: content-box;
+
+  display: flex;
+  flex-direction: column;
+  gap: 3.2rem;
+}
+
+main img {
+  width: 100%;
+  margin-block: 3.2rem;
+}
+
 main h1,
 main h2 {
   font-size: 2.8rem;
