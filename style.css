@@ -91,4 +91,23 @@ main button:hover {
   .ingredients {
     max-width: 47.5rem;
   }
+
+  main h1,
+  main h2 {
+    font-size: 3rem;
+    line-height: 5rem;
+  }
+
+  main p,
+  main strong,
+  main ul li {
+    font-size: 1.7rem;
+    line-height: 2rem;
+  }
+
+  main button {
+    padding: 1rem 2rem;
+    font-size: 1.4rem;
+    line-height: 2.4rem;
+  }
 }
