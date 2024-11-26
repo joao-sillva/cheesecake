@@ -1,5 +1,5 @@
 # Cheesecake
 
-Receita de Cheesecake de Frutas Vermelhas.
+Página de receita de Cheesecake com Frutas Vermelhas.
 
 <img src=".github/preview.png" alt="preview" />
